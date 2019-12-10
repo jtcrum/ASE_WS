@@ -1,0 +1,8 @@
+#!/bin/bash
+module load vasp/5.4.1
+
+cd /afs/crc.nd.edu/user/j/jcrum/Chabazite/protonation/isolated
+cd /afs/crc.nd.edu/user/j/jcrum/Chabazite/protonation/isolated/D-84/CALC1  # this is the vasp directory
+
+runvasp.py     # this is the vasp command
+#end

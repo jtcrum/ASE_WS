@@ -1,0 +1,14 @@
+INCAR created by Atomic Simulation Environment
+ MAGMOM = 0 2 0
+ NSW = 500
+ EDIFFG = -0.01
+ NCORE = 48
+ SIGMA = 0.01
+ ISMEAR = 0
+ IBRION = 2
+ EDIFF = 1e-08
+ LORBIT = 11
+ ISPIN = 2
+ ENCUT = 400
+ LCHARG = .FALSE.
+ LWAVE = .FALSE.
